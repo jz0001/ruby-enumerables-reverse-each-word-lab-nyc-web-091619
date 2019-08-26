@@ -1,2 +1,3 @@
-def reverse_each_word(String)
-  str
+def reverse_each_word(string)
+  array=string.split(" ")
+  array.each()
